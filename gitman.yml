@@ -31,4 +31,4 @@ sources:
   rev: gazebo7
 - name: fetch_ros
   repo: https://github.com/fetchrobotics/fetch_ros.git
-  rev: indigo-devel
+  rev: kinetic-devel
