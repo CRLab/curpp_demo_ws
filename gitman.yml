@@ -13,6 +13,9 @@ sources:
 - name: cluster_segmentation
   repo: 'https://github.com/CRLab/cluster_segmentation.git'
   rev: master
+- name: pc_filter
+  repo: 'https://github.com/CRLab/pc_filter.git'
+  rev: master
 
 # Graspit includes
 - name: graspit_interface
@@ -31,4 +34,4 @@ sources:
   rev: gazebo7
 - name: fetch_ros
   repo: https://github.com/fetchrobotics/fetch_ros.git
-  rev: kinetic-devel
+  rev: indigo-devel
